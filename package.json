@@ -1,0 +1,20 @@
+{
+  "name": "repo04",
+  "version": "1.0.0",
+  "description": "Learning more JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrhanDulancic/Repo04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrhanDulancic/Repo04/issues"
+  },
+  "homepage": "https://github.com/OrhanDulancic/Repo04#readme"
+}
