@@ -8,7 +8,7 @@ function main(numOne, numTwo){
         // only change code below this line
         var numOne;
         var numTwo;
-        quotient = numOne / numTwo
+        quotient = numOne / numTwo;
         // only change code abowe this line
     }
     return quotient;
